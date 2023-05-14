@@ -249,7 +249,7 @@
     right: 0;
     left: 0;
     width: 100%;
-    transform: translateX(50%) translateY(10%);
+    transform:translateY(10%);
     display: flex;
     align-items: center;
     justify-content: center;
